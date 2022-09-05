@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "gitignore": "^0.7.0",
     "node-modules": "^1.0.1"
   }
 }
